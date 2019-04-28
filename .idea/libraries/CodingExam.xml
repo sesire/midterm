@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="CodingExam">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/CodingExam" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/CodingExam/src" />
+    </SOURCES>
+  </library>
+</component>
